@@ -64,10 +64,8 @@ print("5 spørgsmål fra at vinde en billion!")
 
 print("Du har 1 hint men du behøver ingen for dusØDOÆFØASÆDKLMFAØDKSMF er retadet og har brug for en hagesmæk")
 print("Du har sikret dig 50000 hvis du svarer rigtigt på 2. spørgsmål")
-=======
 print("Du har 1 hint men du behøver ingen for du er retadet og har brug for en hagesmæk")
-print("Du har sikret dig 50000 og en sutter af mig ude på toilettet, hvis du svarer rigtigt på 2. spørgsmål")
->>>>>>> master
+print("Du har sikret dig 500001023 og en sutter af mig ude på toilettet, hvis du svarer rigtigt på 2. spørgsmål")
 print("Tryk på 's' for at starte spillet og slikke Hans Pilgaard's nosser!")
 
 

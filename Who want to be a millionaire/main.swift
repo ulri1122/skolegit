@@ -61,7 +61,7 @@ let questions = [question1, question2, question3, question4, question5]
 
 //Start besked
 print("5 spørgsmål fra at vinde en billion!")
-<<<<<<< HEAD
+
 print("Du har 1 hint men du behøver ingen for dusØDOÆFØASÆDKLMFAØDKSMF er retadet og har brug for en hagesmæk")
 print("Du har sikret dig 50000 hvis du svarer rigtigt på 2. spørgsmål")
 =======

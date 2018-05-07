@@ -111,7 +111,7 @@ while functionChoice == "s" {
                             totalScore = question.score
                         }
                     } else {
-                        print("Det var forkert, tryk 's' for at begynde igen!")
+                        print("Det var forkert, tryk 's' for at begynde og at S U C C!")
                         if totalScore > 0 { print("Men du har vundet \(totalScore) kr") } //printes hvis man har passeret checkpoint
                         hasWon = false //hvis hasWon = false break
                         break //breaker ud af loop'et
